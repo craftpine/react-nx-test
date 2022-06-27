@@ -3,6 +3,9 @@
   "version": 2,
   "projects": {
     "react": "apps/react",
-    "react-e2e": "apps/react-e2e"
+    "react-2": "apps/react-2",
+    "react-2-e2e": "apps/react-2-e2e",
+    "react-e2e": "apps/react-e2e",
+    "ui": "libs/ui"
   }
 }
